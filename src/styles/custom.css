@@ -1051,3 +1051,44 @@ body {
 @media (max-width: 991px) {
   .calc-panel, .calc-results { padding: 1.5rem; }
 }
+
+/* ── MOBILE (≤576px) ────────────────────────────────────── */
+@media (max-width: 576px) {
+  /* Hero */
+  .hero-section { min-height: 100svh; }
+  .hero-ctas { flex-direction: column; }
+  .hero-ctas .btn-novus-gold,
+  .hero-ctas .btn-novus-outline { width: 100%; text-align: center; }
+
+  /* Navbar */
+  .novus-navbar .collapse { background: rgba(13,13,26,0.97); padding: 1rem; border-radius: 0 0 16px 16px; }
+
+  /* Sección deuda */
+  .debt-callout-card { padding: 1.5rem; }
+  .debt-title { font-size: 1.75rem; }
+
+  /* Caso real */
+  .case-stat-value { font-size: 3rem; }
+  .case-stat-side, .case-steps-side { padding: 1.5rem; }
+  .case-step { gap: 0.75rem; }
+
+  /* Servicios */
+  .service-featured-card { padding: 1.5rem 1.25rem; }
+  .service-featured-icon { width: 52px; height: 52px; }
+  .service-featured-title { font-size: 1.15rem; }
+
+  /* Calculadora */
+  .calc-panel, .calc-results { padding: 1.25rem; }
+  .calc-savings-row.main strong { font-size: 1.2rem; }
+
+  /* Contacto */
+  .contact-promise-panel { padding: 1.5rem; }
+
+  /* About stats */
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+  .stat-value { font-size: 2rem; }
+
+  /* General */
+  .section-heading { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+  .section-padding { padding: 4rem 0; }
+}
