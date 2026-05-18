@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: novus-capital-partners
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: MAIL_SERVER
+        value: smtp.gmail.com
+      - key: MAIL_PORT
+        value: 587
+      - key: MAIL_USE_TLS
+        value: True
+      - key: MAIL_RECIPIENT
+        value: pablo.garcia@novus-iberica.com
+      - key: MAIL_USERNAME
+        sync: false        # se rellena en el dashboard de Render
+      - key: MAIL_PASSWORD
+        sync: false        # contraseña de aplicación Gmail
+      - key: MAIL_DEFAULT_SENDER
+        sync: false

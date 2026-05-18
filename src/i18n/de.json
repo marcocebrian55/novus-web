@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "calc": "Rechner",
+    "howItWorks": "So Funktioniert's",
+    "about": "Über Uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline1": "Spezialisten für",
+    "taglineGold": "Hypothekenschulden",
+    "tagline2": "und Immobilieninvestitionen",
+    "subtitle": "Wir kontrollieren den gesamten Prozess — von der Bankverhandlung bis zum Notarabschluss. Keine Bürokratie. Individuelle, persönliche Betreuung für jeden Fall.",
+    "cta": "Situation analysieren",
+    "ctaSecondary": "Kostenlose Beratung"
+  },
+  "trust": {
+    "rating": "5 Sterne bei Google",
+    "national": "Nationaler Betrieb",
+    "days": "7-Tage-Support",
+    "response": "Antwort in 24h"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Jede Situation ist einzigartig. Jede Lösung auch",
+    "cta": "Anfragen",
+    "featured": "Spezialisierte Leistung",
+    "buy": {
+      "title": "Immobilienkauf",
+      "desc": "Wir identifizieren Marktchancen für Investoren und Privatpersonen. Jede Transaktion wird sorgfältig analysiert, um Ihre Rendite zu maximieren."
+    },
+    "sell": {
+      "title": "Hypothekenschuldenmanagement",
+      "desc": "Wir kaufen Hypothekenschulden und verwalten den Immobilienverkauf nach unseren Bedingungen — ohne auf Versteigerungen zu warten. Ein würdevoller und schneller Ausweg mit echter Liquidität.",
+      "badge": "Was sonst niemand macht"
+    },
+    "advisory": {
+      "title": "Finanzberatung",
+      "desc": "Wir analysieren Ihre Hypothek und verhandeln mit Ihrer Bank, um Rate, Laufzeit oder Zinssatz zu reduzieren. Wir finanzieren auch den Käufer bei Gesamttransaktionen."
+    }
+  },
+  "debt": {
+    "label": "Ist das Ihre Situation?",
+    "title": "Ihre Hypothek hat einen Ausweg.",
+    "titleAccent": "Auch wenn es jetzt nicht so scheint.",
+    "subtitle": "Als Sie Ihre Hypothek unterschrieben, hat niemand erklärt, was passieren würde, wenn Sie nicht mehr zahlen können. Unser Team erklärt es jetzt — und löst es.",
+    "scenarios": [
+      { "text": "Sie haben 3 oder mehr Monatsraten nicht bezahlt" },
+      { "text": "Die Bank hat ein Zwangsvollstreckungsverfahren eingeleitet" },
+      { "text": "Sie haben eine gemeinsame Hypothek aus Scheidung oder Trennung" },
+      { "text": "Sie haben eine Immobilie mit zugehörigen Schulden geerbt" },
+      { "text": "Sie sind Selbständiger oder Unternehmen mit Immobilienschulden" },
+      { "text": "Sie wollen verkaufen, bevor die Bank handelt" }
+    ],
+    "callout": "Sie müssen nicht warten, bis die Bank vollstreckt. Es gibt einen würdevollen Ausweg.",
+    "cta": "Meinen Fall kostenlos analysieren",
+    "ctaNote": "Vertraulich · Keine Verpflichtung · Antwort in 24h"
+  },
+  "case": {
+    "label": "Echter Fall",
+    "stat": "40.000€",
+    "statDesc": "Liquidität für einen Eigentümer mit Immobilie in der Versteigerung zurückgewonnen",
+    "title": "Versteigerung gestoppt.\nImmobilie in 10 Tagen verkauft.",
+    "steps": [
+      { "num": "01", "title": "Aktive Versteigerung", "desc": "Die Bank hatte das Zwangsvollstreckungsverfahren eingeleitet. Der Eigentümer glaubte, keinen Ausweg zu haben." },
+      { "num": "02", "title": "Sofortige Intervention", "desc": "Unser Team stoppte die Versteigerung und verhandelte direkt mit der Bank im Namen des Eigentümers." },
+      { "num": "03", "title": "Verkauft in 10 Tagen", "desc": "Wir vermarkteten die Immobilie und schlossen die Transaktion in Rekordzeit mit einem qualifizierten Käufer ab." },
+      { "num": "04", "title": "40.000€ an den Eigentümer", "desc": "Der Kunde erhielt echte Liquidität, um neu zu beginnen. Würde und finanzielle Freiheit." }
+    ],
+    "cta": "Ihr Fall kann das gleiche Ergebnis haben",
+    "disclaimer": "Echter Fall, verwaltet von Novus Capital Partners. Die Ergebnisse variieren je nach Situation."
+  },
+  "calc": {
+    "label": "Hypothekenrechner",
+    "title": "Wie viel könnten Sie sparen?",
+    "subtitle": "Bewegen Sie die Regler und sehen Sie in Echtzeit, wie viel Ihr Team durch die Verhandlung Ihres Zinssatzes einsparen kann.",
+    "yourMortgage": "Ihre aktuelle Hypothek",
+    "capital": "Ausstehender Kapitalbetrag",
+    "currentRate": "Aktueller Zinssatz",
+    "years": "Verbleibende Jahre",
+    "yearsUnit": "Jahre",
+    "afterNovus": "Nach der Novus-Verhandlung",
+    "newRate": "Verhandelter Zinssatz (geschätzt)",
+    "disclaimer": "Orientierungswert basierend auf echten Novus-Operationen. Das Ergebnis hängt von Ihrem Profil und Ihrer Bank ab.",
+    "scenarioCurrent": "Aktuelle Situation",
+    "scenarioNew": "Nach der Verhandlung",
+    "monthly": "Monatliche Rate",
+    "totalCost": "Gesamtkosten",
+    "interest": "Gesamtzinsen",
+    "savingsMonthly": "Monatliche Ersparnis",
+    "savingsTotal": "Gesamte Zinsersparnis",
+    "savingsNote": "Jeder gesparte Euro an Zinsen gehört Ihnen.",
+    "cta": "Ich möchte, dass Novus meine Hypothek verhandelt",
+    "ctaNote": "Kostenlose Beratung, keine Verpflichtung"
+  },
+  "howItWorks": {
+    "title": "So Arbeiten Wir",
+    "subtitle": "Schnelle Entscheidungen, transparenter Prozess, keine Bürokratie",
+    "steps": [
+      {
+        "title": "Wir analysieren Ihre Situation",
+        "desc": "Unser Berater analysiert Ihre Schulden, die Immobilie und Ihre Bankensituation — vertraulich und kostenlos. Ohne Formalitäten."
+      },
+      {
+        "title": "Angebot in 24–48 Stunden",
+        "desc": "Wir brauchen keine Wochen. Innerhalb von 24 bis 48 Stunden liegt ein konkretes Angebot mit klaren Konditionen auf dem Tisch."
+      },
+      {
+        "title": "Wir sprechen mit der Bank",
+        "desc": "Sie müssen nicht mit der Bank verhandeln. Unser Team übernimmt direkt — Schulden, Konditionen und Fristen."
+      },
+      {
+        "title": "Sie schließen ab und erhalten Liquidität",
+        "desc": "Wir übernehmen alle Unterlagen, den Notarabschluss und die Eigentumsübertragung. Sie erhalten das Geld und fangen neu an."
+      }
+    ]
+  },
+  "about": {
+    "title": "Über Uns",
+    "subtitle": "Gegründet, um zu lösen, was andere nicht können",
+    "p1": "Novus Capital Partners wurde 2025 mit einer klaren Mission gegründet: die komplexesten Immobilientransaktionen des spanischen Marktes zu lösen. Mit Sitz in Valladolid und nationalem Tätigkeitsbereich betreut unser Expertenteam aus Recht, Finanzen und Immobilien jeden Fall individuell — niemals als Massenabfertigung.",
+    "p2": "Unser Markenzeichen ist einzigartig: Wir warten nicht auf Versteigerungen. Wir kaufen die Schuld und verkaufen, wenn wir es entscheiden, und geben dem Eigentümer einen echten Ausweg. Als Investor garantieren wir Ihnen die gleiche Sorgfalt und Transparenz.",
+    "stats": {
+      "operations": "Abgeschlossene Deals",
+      "days": "Ø Tage bis zum Verkauf",
+      "conversion": "Abschlussrate nach Erstgespräch",
+      "team": "Fachleute im Team"
+    }
+  },
+  "contact": {
+    "title": "Ihr Fall, unsere Lösung",
+    "subtitle": "Schildern Sie uns Ihre Situation. Unser Berater antwortet persönlich innerhalb von 24 Stunden",
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefon / WhatsApp",
+    "service": "Wie können wir helfen?",
+    "selectService": "Wählen Sie Ihre Situation",
+    "message": "Schildern Sie uns die Details Ihres Falls",
+    "send": "Anfrage senden",
+    "services": {
+      "buy": "Ich möchte eine Immobilie kaufen",
+      "sell": "Ich habe Hypothekenschulden / möchte verkaufen",
+      "advisory": "Ich möchte meine Hypothekenbedingungen verbessern",
+      "other": "Sonstige Anfrage"
+    },
+    "success": "Anfrage erhalten. Unser Berater wird Sie persönlich innerhalb von 24 Stunden kontaktieren.",
+    "whatsapp": "WhatsApp direkt an unseren Berater",
+    "promise": "Jeder Fall wird von einem dedizierten Berater betreut — kein Bot, kein unbeantwortetes Formular."
+  },
+  "footer": {
+    "tagline": "Komplexe Immobilientransaktionen gelöst. Persönlicher Ansatz in jedem Fall.",
+    "rights": "Alle Rechte vorbehalten.",
+    "legal": "Impressum",
+    "privacy": "Datenschutz"
+  }
+}

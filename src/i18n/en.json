@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "calc": "Calculator",
+    "howItWorks": "How It Works",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline1": "Specialists in",
+    "taglineGold": "mortgage debt",
+    "tagline2": "and real estate investment",
+    "subtitle": "We control the entire process — from bank negotiation to notarial closing. No bureaucracy. Individual, personal attention for every case.",
+    "cta": "Analyse your situation",
+    "ctaSecondary": "Free consultation"
+  },
+  "trust": {
+    "rating": "5 stars on Google",
+    "national": "National operations",
+    "days": "7-day support",
+    "response": "24h response"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Every situation is unique. So is every solution",
+    "cta": "Enquire",
+    "featured": "Specialist service",
+    "buy": {
+      "title": "Property Acquisition",
+      "desc": "We identify market opportunities for investors and private buyers. Every transaction is rigorously analysed to maximise your return."
+    },
+    "sell": {
+      "title": "Mortgage Debt Management",
+      "desc": "We purchase mortgage debt and manage the property sale on our terms — without waiting for auctions. A dignified and fast exit with real liquidity for the owner.",
+      "badge": "What no one else does"
+    },
+    "advisory": {
+      "title": "Financial Advisory",
+      "desc": "We analyse your mortgage and negotiate with your bank to reduce your monthly payment, term or interest rate. We also finance the buyer when part of a full transaction."
+    }
+  },
+  "debt": {
+    "label": "Is this your situation?",
+    "title": "Your mortgage has a way out.",
+    "titleAccent": "Even if it doesn't seem like it right now.",
+    "subtitle": "When you signed your mortgage, no one explained what would happen if you couldn't pay. Our team explains it now — and resolves it.",
+    "scenarios": [
+      { "text": "You have missed 3 or more monthly payments" },
+      { "text": "The bank has started a foreclosure process" },
+      { "text": "You have a shared mortgage from a divorce or separation" },
+      { "text": "You inherited a property with associated debt" },
+      { "text": "You are self-employed or a company with property debt" },
+      { "text": "You want to sell before the bank takes action" }
+    ],
+    "callout": "You don't have to wait for the bank to foreclose. There is a dignified way out.",
+    "cta": "Analyse my case for free",
+    "ctaNote": "Confidential · No commitment · Response within 24h"
+  },
+  "case": {
+    "label": "Real case",
+    "stat": "€40,000",
+    "statDesc": "in liquidity recovered for an owner with a property at auction",
+    "title": "Auction halted.\nProperty sold in 10 days.",
+    "steps": [
+      { "num": "01", "title": "Active auction", "desc": "The bank had started foreclosure proceedings. The owner believed there was no way out." },
+      { "num": "02", "title": "Immediate intervention", "desc": "Our team halted the auction and negotiated directly with the bank on the owner's behalf." },
+      { "num": "03", "title": "Sold in 10 days", "desc": "We marketed the property and closed the operation in record time with a qualified buyer." },
+      { "num": "04", "title": "€40,000 to the owner", "desc": "The client recovered real liquidity to start over. Dignity and financial freedom." }
+    ],
+    "cta": "Your case can have the same result",
+    "disclaimer": "Real case managed by Novus Capital Partners. Results vary depending on each specific situation."
+  },
+  "calc": {
+    "label": "Mortgage Calculator",
+    "title": "How much could you save?",
+    "subtitle": "Move the sliders and see in real time the savings our team can achieve by negotiating your interest rate.",
+    "yourMortgage": "Your current mortgage",
+    "capital": "Outstanding capital",
+    "currentRate": "Current interest rate",
+    "years": "Years remaining",
+    "yearsUnit": "years",
+    "afterNovus": "After Novus negotiation",
+    "newRate": "Negotiated rate (estimated)",
+    "disclaimer": "Indicative rate based on real Novus operations. Final result depends on your profile and bank.",
+    "scenarioCurrent": "Current situation",
+    "scenarioNew": "After negotiation",
+    "monthly": "Monthly payment",
+    "totalCost": "Total cost",
+    "interest": "Total in interest",
+    "savingsMonthly": "Monthly savings",
+    "savingsTotal": "Total interest savings",
+    "savingsNote": "Every euro saved in interest is yours.",
+    "cta": "I want Novus to negotiate my mortgage",
+    "ctaNote": "Free consultation, no commitment"
+  },
+  "howItWorks": {
+    "title": "How We Work",
+    "subtitle": "Fast decisions, transparent process, no bureaucracy",
+    "steps": [
+      {
+        "title": "We assess your situation",
+        "desc": "Our advisor analyses your debt, the property and your banking situation — confidentially and at no cost. No formalities."
+      },
+      {
+        "title": "Offer within 24–48 hours",
+        "desc": "We don't take weeks. Within 24 to 48 hours you have a concrete proposal on the table with clear terms and expected liquidity."
+      },
+      {
+        "title": "We deal with the bank",
+        "desc": "You don't have to face the bank. Our team negotiates directly — the debt, the terms and the timeline."
+      },
+      {
+        "title": "You close and recover liquidity",
+        "desc": "We manage all documentation, the notarial signing and the property transfer. You receive the money and start fresh."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Built to solve what others won't",
+    "p1": "Novus Capital Partners was founded in 2025 with one clear mission: to resolve the most complex real estate operations in the Spanish market. Based in Valladolid and operating nationally, our team of specialists in law, finance and real estate handles every file individually — never as a production line.",
+    "p2": "Our hallmark is unique: we don't wait for auctions. We purchase the debt and sell when we decide, giving the owner a real way out. If you are an investor, we guarantee the same rigour and transparency in every operation.",
+    "stats": {
+      "operations": "Closed Deals",
+      "days": "Average Days to Sale",
+      "conversion": "Close Rate After First Meeting",
+      "team": "Professionals on the Team"
+    }
+  },
+  "contact": {
+    "title": "Your case, our solution",
+    "subtitle": "Tell us your situation. Our advisor responds personally within 24 hours",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone / WhatsApp",
+    "service": "How can we help you?",
+    "selectService": "Select your situation",
+    "message": "Tell us the details of your case",
+    "send": "Send enquiry",
+    "services": {
+      "buy": "I want to buy a property",
+      "sell": "I have mortgage debt / I want to sell",
+      "advisory": "I need to improve my mortgage terms",
+      "other": "Other enquiry"
+    },
+    "success": "Enquiry received. Our advisor will contact you personally within 24 hours.",
+    "whatsapp": "WhatsApp our advisor directly",
+    "promise": "Every case is handled by a dedicated advisor — never a bot, never an unanswered form."
+  },
+  "footer": {
+    "tagline": "Complex real estate operations resolved. Personal approach in every case.",
+    "rights": "All rights reserved.",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "calc": "Calculadora",
+    "howItWorks": "Cómo Funciona",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline1": "Especialistas en",
+    "taglineGold": "deuda hipotecaria",
+    "tagline2": "e inversión inmobiliaria",
+    "subtitle": "Controlamos todo el proceso — desde la negociación con el banco hasta el cierre notarial. Sin burocracia. Con atención personal e individual para cada expediente.",
+    "cta": "Analiza tu situación",
+    "ctaSecondary": "Consulta gratuita"
+  },
+  "trust": {
+    "rating": "5 estrellas en Google",
+    "national": "Operación nacional",
+    "days": "Atención 7 días",
+    "response": "Respuesta en 24h"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Cada situación es única. Cada solución, también",
+    "cta": "Consultar",
+    "featured": "Servicio especializado",
+    "buy": {
+      "title": "Compra de Inmuebles",
+      "desc": "Identificamos oportunidades de mercado para inversores y particulares. Analizamos cada operación con rigor para maximizar tu rentabilidad."
+    },
+    "sell": {
+      "title": "Gestión de Deuda Hipotecaria",
+      "desc": "Compramos la deuda hipotecaria y gestionamos la venta del inmueble cuando nosotros lo decidimos — sin esperar subastas. Ofrecemos una salida digna y rápida con liquidez real para el propietario.",
+      "badge": "Lo que nadie más hace"
+    },
+    "advisory": {
+      "title": "Asesoramiento Financiero",
+      "desc": "Analizamos tu hipoteca y negociamos con tu banco para reducir cuota, plazo o tipo de interés. También financiamos al comprador cuando forma parte de la operación integral."
+    }
+  },
+  "debt": {
+    "label": "¿Es tu situación?",
+    "title": "Tu hipoteca tiene salida.",
+    "titleAccent": "Aunque ahora no lo parezca.",
+    "subtitle": "Cuando firmaste la hipoteca nadie te explicó qué pasaría si un día no pudieras pagarla. Nuestro equipo sí lo hace ahora — y lo resuelve.",
+    "scenarios": [
+      { "text": "Llevas 3 o más meses sin pagar las cuotas" },
+      { "text": "El banco ha iniciado un proceso de ejecución hipotecaria" },
+      { "text": "Tienes una hipoteca compartida por divorcio o separación" },
+      { "text": "Has heredado un inmueble con deuda asociada" },
+      { "text": "Eres autónomo o empresa con deuda inmobiliaria" },
+      { "text": "Quieres vender antes de que el banco actúe" }
+    ],
+    "callout": "No tienes que esperar a que el banco ejecute. Hay una salida digna.",
+    "cta": "Analiza mi caso gratis",
+    "ctaNote": "Confidencial · Sin compromiso · Respuesta en 24h"
+  },
+  "case": {
+    "label": "Caso real",
+    "stat": "40.000€",
+    "statDesc": "de liquidez recuperada para un propietario con el inmueble en subasta",
+    "title": "Subasta paralizada.\nVivienda vendida en 10 días.",
+    "steps": [
+      { "num": "01", "title": "Subasta activa", "desc": "El banco había iniciado la ejecución hipotecaria. El propietario creía no tener ninguna salida." },
+      { "num": "02", "title": "Intervención inmediata", "desc": "Nuestro equipo paralizó la subasta y negoció directamente con la entidad bancaria en su nombre." },
+      { "num": "03", "title": "Venta en 10 días", "desc": "Comercializamos el inmueble y cerramos la operación en tiempo récord con un comprador cualificado." },
+      { "num": "04", "title": "40.000€ al propietario", "desc": "El cliente recuperó liquidez real para poder volver a empezar. Dignidad y libertad financiera." }
+    ],
+    "cta": "Tu caso puede tener el mismo resultado",
+    "disclaimer": "Caso real gestionado por Novus Capital Partners. Los resultados varían según la situación de cada expediente."
+  },
+  "calc": {
+    "label": "Calculadora Hipotecaria",
+    "title": "¿Cuánto podrías ahorrar?",
+    "subtitle": "Mueve los controles y comprueba en tiempo real el ahorro que nuestro equipo puede conseguirte negociando tu tipo de interés.",
+    "yourMortgage": "Tu hipoteca actual",
+    "capital": "Capital pendiente",
+    "currentRate": "Tipo de interés actual",
+    "years": "Años restantes",
+    "yearsUnit": "años",
+    "afterNovus": "Tras la negociación de Novus",
+    "newRate": "Tipo negociado (estimado)",
+    "disclaimer": "Tipo orientativo basado en operaciones reales de Novus. El resultado final depende de tu perfil y entidad bancaria.",
+    "scenarioCurrent": "Situación actual",
+    "scenarioNew": "Tras negociación",
+    "monthly": "Cuota mensual",
+    "totalCost": "Coste total",
+    "interest": "Total en intereses",
+    "savingsMonthly": "Ahorro mensual",
+    "savingsTotal": "Ahorro total en intereses",
+    "savingsNote": "Cada euro que ahorras en intereses es tuyo.",
+    "cta": "Quiero que Novus negocie mi hipoteca",
+    "ctaNote": "Consulta gratuita y sin compromiso"
+  },
+  "howItWorks": {
+    "title": "Cómo Trabajamos",
+    "subtitle": "Decisiones rápidas, proceso transparente, sin burocracia",
+    "steps": [
+      {
+        "title": "Diagnóstico de tu situación",
+        "desc": "Nuestro asesor analiza tu deuda, el inmueble y tu situación bancaria de forma confidencial y gratuita. Sin formulismos."
+      },
+      {
+        "title": "Oferta en 24–48 horas",
+        "desc": "No tardamos semanas. En 24 a 48 horas tienes sobre la mesa una propuesta concreta con condiciones claras y liquidez esperada."
+      },
+      {
+        "title": "Nosotros hablamos con el banco",
+        "desc": "Tú no tienes que enfrentarte al banco. Nuestro equipo negocia directamente la deuda, las condiciones y los plazos."
+      },
+      {
+        "title": "Cierras y recuperas liquidez",
+        "desc": "Gestionamos toda la documentación, la firma notarial y la transmisión del inmueble. Tú recibes el dinero y empiezas de nuevo."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Nacidos para resolver lo que otros no pueden",
+    "p1": "Novus Capital Partners nació en 2025 con una misión clara: resolver las operaciones inmobiliarias más complejas del mercado español. Basados en Valladolid y actuando a nivel nacional, nuestro equipo de especialistas en derecho, finanzas e inmobiliario gestiona cada expediente de forma individual — nunca como trabajo en serie.",
+    "p2": "Nuestro sello es único: no esperamos subastas. Compramos la deuda y vendemos cuando nosotros decidimos, ofreciendo al propietario una salida real. Si eres inversor, te garantizamos el mismo rigor y transparencia en cada operación.",
+    "stats": {
+      "operations": "Operaciones Cerradas",
+      "days": "Días de Media hasta la Venta",
+      "conversion": "Cierre tras Primera Reunión",
+      "team": "Profesionales en el Equipo"
+    }
+  },
+  "contact": {
+    "title": "Tu caso, nuestra solución",
+    "subtitle": "Cuéntanos tu situación. Nuestro asesor te responde personalmente en menos de 24 horas",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono / WhatsApp",
+    "service": "¿En qué podemos ayudarte?",
+    "selectService": "Selecciona tu situación",
+    "message": "Cuéntanos los detalles de tu caso",
+    "send": "Enviar consulta",
+    "services": {
+      "buy": "Quiero comprar un inmueble",
+      "sell": "Tengo deuda hipotecaria / quiero vender",
+      "advisory": "Necesito mejorar las condiciones de mi hipoteca",
+      "other": "Otra consulta"
+    },
+    "success": "Consulta recibida. Nuestro asesor te contactará personalmente en menos de 24h.",
+    "whatsapp": "WhatsApp directo con nuestro asesor",
+    "promise": "Cada caso lo gestiona un asesor dedicado — nunca un robot, nunca un formulario sin respuesta."
+  },
+  "footer": {
+    "tagline": "Operaciones inmobiliarias complejas resueltas. Trato personal en cada caso.",
+    "rights": "Todos los derechos reservados.",
+    "legal": "Aviso Legal",
+    "privacy": "Política de Privacidad"
+  }
+}
