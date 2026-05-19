@@ -73,7 +73,7 @@
       { "num": "04", "title": "40.000€ al propietario", "desc": "El cliente recuperó liquidez real para poder volver a empezar. Dignidad y libertad financiera." }
     ],
     "cta": "Tu caso puede tener el mismo resultado",
-    "disclaimer": "Caso real gestionado por Novus Capital Partners. Los resultados varían según la situación de cada expediente."
+    "disclaimer": "Caso real gestionado por Novus Pre Ibérica S.L. Los resultados varían según la situación de cada expediente."
   },
   "calc": {
     "label": "Calculadoras Hipotecarias",
@@ -140,7 +140,7 @@
   "about": {
     "title": "Sobre Nosotros",
     "subtitle": "Nacidos para resolver lo que otros no pueden",
-    "p1": "Novus Capital Partners nació en 2025 con una misión clara: resolver las operaciones inmobiliarias más complejas del mercado español. Basados en Valladolid y actuando a nivel nacional, nuestro equipo de especialistas en derecho, finanzas e inmobiliario gestiona cada expediente de forma individual — nunca como trabajo en serie.",
+    "p1": "Novus Pre Ibérica nació en 2025 con una misión clara: resolver las operaciones inmobiliarias más complejas del mercado español. Basados en Valladolid y actuando a nivel nacional, nuestro equipo de especialistas en derecho, finanzas e inmobiliario gestiona cada expediente de forma individual — nunca como trabajo en serie.",
     "p2": "Nuestro sello es único: no esperamos subastas. Compramos la deuda y vendemos cuando nosotros decidimos, ofreciendo al propietario una salida real. Si eres inversor, te garantizamos el mismo rigor y transparencia en cada operación.",
     "stats": {
       "operations": "Operaciones Cerradas",
@@ -160,9 +160,10 @@
     "message": "Cuéntanos los detalles de tu caso",
     "send": "Enviar consulta",
     "services": {
-      "buy": "Quiero comprar un inmueble",
-      "sell": "Tengo deuda hipotecaria / quiero vender",
-      "advisory": "Necesito mejorar las condiciones de mi hipoteca",
+      "buy": "Compra de vivienda",
+      "sellProp": "Venta de vivienda",
+      "advisory": "Asesoramiento hipotecario",
+      "sell": "Solución a problemas con hipoteca",
       "other": "Otra consulta"
     },
     "success": "Consulta recibida. Nuestro asesor te contactará personalmente en menos de 24h.",

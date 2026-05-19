@@ -73,7 +73,7 @@
       { "num": "04", "title": "40.000€ an den Eigentümer", "desc": "Der Kunde erhielt echte Liquidität, um neu zu beginnen. Würde und finanzielle Freiheit." }
     ],
     "cta": "Ihr Fall kann das gleiche Ergebnis haben",
-    "disclaimer": "Echter Fall, verwaltet von Novus Capital Partners. Die Ergebnisse variieren je nach Situation."
+    "disclaimer": "Echter Fall, verwaltet von Novus Pre Ibérica S.L. Die Ergebnisse variieren je nach Situation."
   },
   "calc": {
     "label": "Hypothekenrechner",
@@ -140,7 +140,7 @@
   "about": {
     "title": "Über Uns",
     "subtitle": "Gegründet, um zu lösen, was andere nicht können",
-    "p1": "Novus Capital Partners wurde 2025 mit einer klaren Mission gegründet: die komplexesten Immobilientransaktionen des spanischen Marktes zu lösen. Mit Sitz in Valladolid und nationalem Tätigkeitsbereich betreut unser Expertenteam aus Recht, Finanzen und Immobilien jeden Fall individuell — niemals als Massenabfertigung.",
+    "p1": "Novus Pre Ibérica wurde 2025 mit einer klaren Mission gegründet: die komplexesten Immobilientransaktionen des spanischen Marktes zu lösen. Mit Sitz in Valladolid und nationalem Tätigkeitsbereich betreut unser Expertenteam aus Recht, Finanzen und Immobilien jeden Fall individuell — niemals als Massenabfertigung.",
     "p2": "Unser Markenzeichen ist einzigartig: Wir warten nicht auf Versteigerungen. Wir kaufen die Schuld und verkaufen, wenn wir es entscheiden, und geben dem Eigentümer einen echten Ausweg. Als Investor garantieren wir Ihnen die gleiche Sorgfalt und Transparenz.",
     "stats": {
       "operations": "Abgeschlossene Deals",
@@ -160,9 +160,10 @@
     "message": "Schildern Sie uns die Details Ihres Falls",
     "send": "Anfrage senden",
     "services": {
-      "buy": "Ich möchte eine Immobilie kaufen",
-      "sell": "Ich habe Hypothekenschulden / möchte verkaufen",
-      "advisory": "Ich möchte meine Hypothekenbedingungen verbessern",
+      "buy": "Immobilienkauf",
+      "sellProp": "Immobilienverkauf",
+      "advisory": "Hypothekenberatung",
+      "sell": "Hypothekenproblem / Schuldenlösung",
       "other": "Sonstige Anfrage"
     },
     "success": "Anfrage erhalten. Unser Berater wird Sie persönlich innerhalb von 24 Stunden kontaktieren.",

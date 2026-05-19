@@ -28,7 +28,7 @@ export default function Hero() {
           <div className="col-lg-8 col-xl-7">
 
             <motion.div className="hero-badge" {...fadeUp(0.2)}>
-              Novus Capital Partners
+              Novus Pre Ibérica S.L.
             </motion.div>
 
             <motion.h1 className="hero-title" {...fadeUp(0.4)}>

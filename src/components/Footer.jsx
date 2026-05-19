@@ -58,7 +58,7 @@ export default function Footer() {
 
         <div className="row py-3 align-items-center">
           <div className="col-md-6 text-center text-md-start">
-            <small className="footer-copy">© {new Date().getFullYear()} Novus Capital Partners S.L. — {t('footer.rights')}</small>
+            <small className="footer-copy">© {new Date().getFullYear()} Novus Pre Ibérica S.L. — {t('footer.rights')}</small>
           </div>
           <div className="col-md-6 text-center text-md-end mt-2 mt-md-0">
             <a href="#" className="footer-link me-3"><small>{t('footer.legal')}</small></a>

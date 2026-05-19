@@ -120,9 +120,10 @@ export default function Contact() {
                     <div className="col-md-6">
                       <select name="service" className="novus-input" value={form.service} onChange={handleChange} required>
                         <option value="">{t('contact.selectService')}</option>
-                        <option value="sell">{t('contact.services.sell')}</option>
                         <option value="buy">{t('contact.services.buy')}</option>
+                        <option value="sellProp">{t('contact.services.sellProp')}</option>
                         <option value="advisory">{t('contact.services.advisory')}</option>
+                        <option value="sell">{t('contact.services.sell')}</option>
                         <option value="other">{t('contact.services.other')}</option>
                       </select>
                     </div>
