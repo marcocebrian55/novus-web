@@ -27,17 +27,21 @@
     "cta": "Consultar",
     "featured": "Servicio especializado",
     "buy": {
-      "title": "Compra de Inmuebles",
+      "title": "Compra de Vivienda",
       "desc": "Identificamos oportunidades de mercado para inversores y particulares. Analizamos cada operación con rigor para maximizar tu rentabilidad."
     },
     "sell": {
-      "title": "Gestión de Deuda Hipotecaria",
+      "title": "Solución a Problemas con Hipoteca",
       "desc": "Compramos la deuda hipotecaria y gestionamos la venta del inmueble cuando nosotros lo decidimos — sin esperar subastas. Ofrecemos una salida digna y rápida con liquidez real para el propietario.",
       "badge": "Lo que nadie más hace"
     },
+    "sellProp": {
+      "title": "Venta de Vivienda",
+      "desc": "Gestionamos la venta de tu inmueble de principio a fin: valoración, comercialización y cierre notarial. Transparencia total y el mejor precio de mercado."
+    },
     "advisory": {
-      "title": "Asesoramiento Financiero",
-      "desc": "Analizamos tu hipoteca y negociamos con tu banco para reducir cuota, plazo o tipo de interés. También financiamos al comprador cuando forma parte de la operación integral."
+      "title": "Asesoramiento Hipotecario",
+      "desc": "Negociamos con tu banco para reducir cuota, plazo o tipo. También ofrecemos planificación financiera, acortamiento de hipoteca, gestión de seguros y suministros."
     }
   },
   "debt": {
@@ -72,9 +76,11 @@
     "disclaimer": "Caso real gestionado por Novus Capital Partners. Los resultados varían según la situación de cada expediente."
   },
   "calc": {
-    "label": "Calculadora Hipotecaria",
-    "title": "¿Cuánto podrías ahorrar?",
-    "subtitle": "Mueve los controles y comprueba en tiempo real el ahorro que nuestro equipo puede conseguirte negociando tu tipo de interés.",
+    "label": "Calculadoras Hipotecarias",
+    "title": "Dos herramientas, una decisión más clara",
+    "subtitle": "Calcula cuánto puedes ahorrar negociando tu tipo de interés o pagando tu hipoteca antes de tiempo.",
+    "tabNeg": "Negociación de tipo",
+    "tabShort": "Acortamiento de plazo",
     "yourMortgage": "Tu hipoteca actual",
     "capital": "Capital pendiente",
     "currentRate": "Tipo de interés actual",
@@ -92,7 +98,22 @@
     "savingsTotal": "Ahorro total en intereses",
     "savingsNote": "Cada euro que ahorras en intereses es tuyo.",
     "cta": "Quiero que Novus negocie mi hipoteca",
-    "ctaNote": "Consulta gratuita y sin compromiso"
+    "ctaNote": "Consulta gratuita y sin compromiso",
+    "short": {
+      "panelTitle": "Tu hipoteca",
+      "extra": "Cuota extra mensual",
+      "extraHint": "¿Cuánto más puedes pagar al mes?",
+      "noSavings": "Añade una cuota extra para ver el resultado",
+      "timeSaved": "Tiempo que te ahorras",
+      "monthsSaved": "meses menos de hipoteca",
+      "interestSaved": "Intereses que te ahorras",
+      "newTerm": "Nueva duración total",
+      "months": "meses",
+      "savingsNote": "Ese dinero en intereses se queda en tu bolsillo.",
+      "disclaimer": "Cálculo orientativo. Los resultados exactos dependen de las condiciones de tu contrato.",
+      "cta": "Quiero acortar mi hipoteca con Novus",
+      "ctaNote": "Consulta gratuita y sin compromiso"
+    }
   },
   "howItWorks": {
     "title": "Cómo Trabajamos",

@@ -1048,8 +1048,68 @@ body {
   font-style: italic;
 }
 
+/* Tabs calculadora */
+.calc-tabs-wrap {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(201,168,76,0.15);
+  border-radius: 50px;
+  padding: 0.35rem;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.calc-tab-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.45);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.55rem 1.5rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+.calc-tab-btn:hover {
+  color: rgba(255,255,255,0.75);
+  background: rgba(255,255,255,0.05);
+}
+.calc-tab-btn.active {
+  background: linear-gradient(135deg, var(--gold), var(--gold-light));
+  color: var(--dark);
+  box-shadow: 0 2px 12px rgba(201,168,76,0.35);
+}
+
+/* Placeholder sin datos */
+.calc-no-savings {
+  background: rgba(255,255,255,0.03);
+  border: 1px dashed rgba(255,255,255,0.1);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+.calc-no-savings p {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.3);
+  margin: 0;
+  font-style: italic;
+}
+
+/* Grid 3 servicios secundarios */
+.services-secondary-grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
 @media (max-width: 991px) {
   .calc-panel, .calc-results { padding: 1.5rem; }
+  .services-secondary-grid--3 { grid-template-columns: repeat(2, 1fr); }
+  .calc-tabs-wrap { width: 100%; justify-content: stretch; }
+  .calc-tab-btn { flex: 1; text-align: center; font-size: 0.8rem; padding: 0.5rem 0.75rem; }
 }
 
 /* ── MOBILE (≤576px) ────────────────────────────────────── */
@@ -1080,6 +1140,8 @@ body {
   /* Calculadora */
   .calc-panel, .calc-results { padding: 1.25rem; }
   .calc-savings-row.main strong { font-size: 1.2rem; }
+  .services-secondary-grid--3 { grid-template-columns: 1fr; }
+  .calc-tabs-wrap { border-radius: 16px; }
 
   /* Contacto */
   .contact-promise-panel { padding: 1.5rem; }

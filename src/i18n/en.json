@@ -27,17 +27,21 @@
     "cta": "Enquire",
     "featured": "Specialist service",
     "buy": {
-      "title": "Property Acquisition",
+      "title": "Property Purchase",
       "desc": "We identify market opportunities for investors and private buyers. Every transaction is rigorously analysed to maximise your return."
     },
     "sell": {
-      "title": "Mortgage Debt Management",
+      "title": "Mortgage Problem Solutions",
       "desc": "We purchase mortgage debt and manage the property sale on our terms — without waiting for auctions. A dignified and fast exit with real liquidity for the owner.",
       "badge": "What no one else does"
     },
+    "sellProp": {
+      "title": "Property Sale",
+      "desc": "We manage the sale of your property from start to finish: valuation, marketing and notarial closing. Full transparency and the best market price."
+    },
     "advisory": {
-      "title": "Financial Advisory",
-      "desc": "We analyse your mortgage and negotiate with your bank to reduce your monthly payment, term or interest rate. We also finance the buyer when part of a full transaction."
+      "title": "Mortgage Advisory",
+      "desc": "We negotiate with your bank to reduce your payment, term or rate. We also offer financial planning, mortgage shortening, insurance and utility management."
     }
   },
   "debt": {
@@ -72,9 +76,11 @@
     "disclaimer": "Real case managed by Novus Capital Partners. Results vary depending on each specific situation."
   },
   "calc": {
-    "label": "Mortgage Calculator",
-    "title": "How much could you save?",
-    "subtitle": "Move the sliders and see in real time the savings our team can achieve by negotiating your interest rate.",
+    "label": "Mortgage Calculators",
+    "title": "Two tools, one clearer decision",
+    "subtitle": "Calculate how much you can save by negotiating your rate or paying off your mortgage early.",
+    "tabNeg": "Rate negotiation",
+    "tabShort": "Term shortening",
     "yourMortgage": "Your current mortgage",
     "capital": "Outstanding capital",
     "currentRate": "Current interest rate",
@@ -92,7 +98,22 @@
     "savingsTotal": "Total interest savings",
     "savingsNote": "Every euro saved in interest is yours.",
     "cta": "I want Novus to negotiate my mortgage",
-    "ctaNote": "Free consultation, no commitment"
+    "ctaNote": "Free consultation, no commitment",
+    "short": {
+      "panelTitle": "Your mortgage",
+      "extra": "Extra monthly payment",
+      "extraHint": "How much more can you pay per month?",
+      "noSavings": "Add an extra payment to see the result",
+      "timeSaved": "Time you save",
+      "monthsSaved": "fewer months of mortgage",
+      "interestSaved": "Interest saved",
+      "newTerm": "New total term",
+      "months": "months",
+      "savingsNote": "That money stays in your pocket, not the bank's.",
+      "disclaimer": "Indicative calculation. Exact results depend on your contract terms.",
+      "cta": "I want to shorten my mortgage with Novus",
+      "ctaNote": "Free consultation, no commitment"
+    }
   },
   "howItWorks": {
     "title": "How We Work",

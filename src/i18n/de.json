@@ -31,13 +31,17 @@
       "desc": "Wir identifizieren Marktchancen für Investoren und Privatpersonen. Jede Transaktion wird sorgfältig analysiert, um Ihre Rendite zu maximieren."
     },
     "sell": {
-      "title": "Hypothekenschuldenmanagement",
+      "title": "Hypothekenprobleme lösen",
       "desc": "Wir kaufen Hypothekenschulden und verwalten den Immobilienverkauf nach unseren Bedingungen — ohne auf Versteigerungen zu warten. Ein würdevoller und schneller Ausweg mit echter Liquidität.",
       "badge": "Was sonst niemand macht"
     },
+    "sellProp": {
+      "title": "Immobilienverkauf",
+      "desc": "Wir begleiten den Verkauf Ihrer Immobilie von Anfang bis Ende: Bewertung, Vermarktung und Notarabschluss. Volle Transparenz und bester Marktpreis."
+    },
     "advisory": {
-      "title": "Finanzberatung",
-      "desc": "Wir analysieren Ihre Hypothek und verhandeln mit Ihrer Bank, um Rate, Laufzeit oder Zinssatz zu reduzieren. Wir finanzieren auch den Käufer bei Gesamttransaktionen."
+      "title": "Hypothekenberatung",
+      "desc": "Wir verhandeln mit Ihrer Bank, um Rate, Laufzeit oder Zinssatz zu senken. Wir bieten auch Finanzplanung, Hypothekenverkürzung, Versicherungs- und Versorgungsmanagement."
     }
   },
   "debt": {
@@ -73,8 +77,10 @@
   },
   "calc": {
     "label": "Hypothekenrechner",
-    "title": "Wie viel könnten Sie sparen?",
-    "subtitle": "Bewegen Sie die Regler und sehen Sie in Echtzeit, wie viel Ihr Team durch die Verhandlung Ihres Zinssatzes einsparen kann.",
+    "title": "Zwei Werkzeuge, eine klarere Entscheidung",
+    "subtitle": "Berechnen Sie, wie viel Sie durch Zinsverhandlung oder vorzeitige Tilgung sparen können.",
+    "tabNeg": "Zinsverhandlung",
+    "tabShort": "Laufzeitverkürzung",
     "yourMortgage": "Ihre aktuelle Hypothek",
     "capital": "Ausstehender Kapitalbetrag",
     "currentRate": "Aktueller Zinssatz",
@@ -92,7 +98,22 @@
     "savingsTotal": "Gesamte Zinsersparnis",
     "savingsNote": "Jeder gesparte Euro an Zinsen gehört Ihnen.",
     "cta": "Ich möchte, dass Novus meine Hypothek verhandelt",
-    "ctaNote": "Kostenlose Beratung, keine Verpflichtung"
+    "ctaNote": "Kostenlose Beratung, keine Verpflichtung",
+    "short": {
+      "panelTitle": "Ihre Hypothek",
+      "extra": "Zusätzliche Monatsrate",
+      "extraHint": "Wie viel mehr können Sie pro Monat zahlen?",
+      "noSavings": "Fügen Sie eine Zusatzzahlung hinzu, um das Ergebnis zu sehen",
+      "timeSaved": "Gesparte Zeit",
+      "monthsSaved": "Monate weniger Hypothek",
+      "interestSaved": "Gesparte Zinsen",
+      "newTerm": "Neue Gesamtlaufzeit",
+      "months": "Monate",
+      "savingsNote": "Dieses Geld bleibt in Ihrer Tasche, nicht bei der Bank.",
+      "disclaimer": "Orientierungsrechnung. Genaue Ergebnisse hängen von Ihren Vertragsbedingungen ab.",
+      "cta": "Ich möchte meine Hypothek mit Novus verkürzen",
+      "ctaNote": "Kostenlose Beratung, keine Verpflichtung"
+    }
   },
   "howItWorks": {
     "title": "So Arbeiten Wir",
