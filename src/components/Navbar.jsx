@@ -28,7 +28,7 @@ export default function Navbar() {
           <img src="/logo.svg" alt="Novus" height="38" />
           <div style={{ lineHeight: 1.1 }}>
             <div style={{ color: '#fff', fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: '1.05rem', letterSpacing: '0.08em' }}>NOVUS</div>
-            <div style={{ color: 'rgba(201,168,76,0.85)', fontSize: '0.6rem', letterSpacing: '0.18em', textTransform: 'uppercase' }}>Capital Partners</div>
+            <div style={{ color: 'rgba(201,168,76,0.85)', fontSize: '0.6rem', letterSpacing: '0.18em', textTransform: 'uppercase' }}>Pre Ibérica S.L.</div>
           </div>
         </a>
 
